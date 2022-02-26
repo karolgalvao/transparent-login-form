@@ -1,8 +1,6 @@
 ### Formulário de Login Transparente :computer:
 
-
-
-![image-20220226165333817](C:\Users\Karol\AppData\Roaming\Typora\typora-user-images\image-20220226165333817.png)![image-20220226165458102](C:\Users\Karol\AppData\Roaming\Typora\typora-user-images\image-20220226165458102.png)
+![image](https://user-images.githubusercontent.com/45302814/155857632-7c7af724-4a5e-47d0-ae42-f441b122cb1a.png)
 
 
 
